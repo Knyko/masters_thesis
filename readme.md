@@ -1,6 +1,6 @@
 # Neural Networks vs. Linear Factor Models in Daily Stock Return Prediction
 
-Replication code for the NTNU Master's Thesis (TIØ4900, 2026)  
+Replication code for the NTNU Master's Thesis (TIØ4900)  
 Author: Nikolaus Weidemann Wieland  
 
 ## Overview
